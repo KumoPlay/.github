@@ -35,7 +35,9 @@ Hi, and welcome to the cloud! 🌸
    - **Endless** games are ones you can keep coming back to.
 3. Each game page shows how long a round usually takes. Tap **Play now** and have fun! 💜
 
-New games float in regularly. The website always has the full list, plus what's new and what's coming soon. A few favorites are pinned below 👇
+🌾 Our first game, **[Kumo Farm](https://kumoplay.github.io/games/kumo-farm/)**, is out now: grow a cozy little farm on a floating cloud island.
+
+New games float in regularly. The website always has the full list, plus what's new and what's coming soon.
 
 ## Say hello
 
