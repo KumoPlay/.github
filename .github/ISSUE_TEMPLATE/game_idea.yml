@@ -1,0 +1,48 @@
+name: "💡 Game idea or feedback"
+description: Share an idea, a wish, or how a game made you feel.
+title: "[Idea]: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing! 🌸
+        Big or small, silly or serious, every idea is welcome. We read them all, even if we can't make every one.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What would you like to share?
+      options:
+        - An idea for a new game
+        - An idea for one of our games
+        - Feedback on one of our games
+        - Something else
+    validations:
+      required: true
+
+  - type: input
+    id: game
+    attributes:
+      label: Which game? (if it's about one of ours)
+      placeholder: "e.g. Kumo Farm"
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Tell us about it
+      description: What's your idea, or what did you think?
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: What would make it fun or cozy for you?
+      description: Optional, but it helps us understand what you love.
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Sketches, pictures, or links to things that inspire you. You can drag images right in here.

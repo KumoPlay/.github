@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "🎮 Play KumoPlay games"
+    url: https://kumoplay.github.io
+    about: Every game, what's new, and what's coming soon.
+  - name: "🔒 Report a security problem privately"
+    url: https://github.com/KumoPlay/.github/blob/main/SECURITY.md
+    about: Please don't post security problems in public. Here's how to tell us privately.
