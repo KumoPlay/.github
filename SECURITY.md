@@ -17,7 +17,7 @@ If you're not sure whether something counts, please report it anyway.
 
 Please **don't** open a public issue, discussion, or pull request about it. Instead:
 
-1. Go to the repository where you found the problem (for the website, that's [KumoPlay/kumoplay.github.io](https://github.com/KumoPlay/kumoplay.github.io)).
+1. Go to the repository where you found the problem: [Kumo Farm](https://github.com/KumoPlay/kumo-farm), [Kumo Café](https://github.com/KumoPlay/kumo-cafe) or [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo). For the website, that's [KumoPlay/kumoplay.github.io](https://github.com/KumoPlay/kumoplay.github.io).
 2. Open the **Security** tab and click **Report a vulnerability**. Only you and the KumoPlay team can see what you send.
 
 If you can't find that button, email KumoPlay's developer, [Werayootk](https://github.com/Werayootk), at **[werayoot5800@gmail.com](mailto:werayoot5800@gmail.com)**.

@@ -13,7 +13,7 @@ You don't need to know how to code to help. Here's how you can join in.
 
 ## Reporting a bug 🐞
 
-1. Go to the repository of the game that has the problem (or the [website repository](https://github.com/KumoPlay/kumoplay.github.io) if it's about the website).
+1. Go to the repository of the game that has the problem: [Kumo Farm](https://github.com/KumoPlay/kumo-farm), [Kumo Café](https://github.com/KumoPlay/kumo-cafe) or [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo). If it's about the website, use the [website repository](https://github.com/KumoPlay/kumoplay.github.io).
 2. Open the **Issues** tab and click **New issue**.
 3. Choose **Bug report** and fill in what you can. It's okay if you don't know every answer.
 
@@ -23,7 +23,7 @@ Screenshots or a short screen recording help a lot. You can drag them right into
 
 ## Sharing an idea or feedback 💡
 
-Open a new issue and choose **Game idea or feedback**. Tell us what you'd love to see, or how a game made you feel. We read everything, even if we can't build every idea.
+Open a new issue in the game's repository (linked above) and choose **Game idea or feedback**. Tell us what you'd love to see, or how a game made you feel. We read everything, even if we can't build every idea.
 
 ## Contributing code, art, or text 🎨
 
