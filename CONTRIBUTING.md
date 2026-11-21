@@ -13,7 +13,7 @@ You don't need to know how to code to help. Here's how you can join in.
 
 ## Reporting a bug 🐞
 
-1. Go to the repository of the game that has the problem: [Kumo Farm](https://github.com/KumoPlay/kumo-farm), [Kumo Café](https://github.com/KumoPlay/kumo-cafe) or [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo). If it's about the website, use the [website repository](https://github.com/KumoPlay/kumoplay.github.io).
+1. Go to the repository of the game that has the problem: [Kumo Farm](https://github.com/KumoPlay/kumo-farm), [Kumo Café](https://github.com/KumoPlay/kumo-cafe), [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo) or [Bubble Pop](https://github.com/KumoPlay/bubble-pop). If it's about the website, use the [website repository](https://github.com/KumoPlay/kumoplay.github.io).
 2. Open the **Issues** tab and click **New issue**.
 3. Choose **Bug report** and fill in what you can. It's okay if you don't know every answer.
 

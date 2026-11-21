@@ -39,12 +39,13 @@ Out now:
 
 - 🌾 **[Kumo Farm](https://kumoplay.github.io/games/kumo-farm/)**: grow a cozy little farm on a floating cloud island.
 - ☕ **[Kumo Café](https://kumoplay.github.io/games/kumo-cafe/)**: cook and serve breakfast at a cozy café in the clouds.
-- 🔍 **[Peek-a-Kumo](https://kumoplay.github.io/games/peek-a-kumo/)**: find hidden treasures in a little town on the clouds. Our newest!
+- 🔍 **[Peek-a-Kumo](https://kumoplay.github.io/games/peek-a-kumo/)**: find hidden treasures in a little town on the clouds.
+- 🫧 **[Bubble Pop](https://kumoplay.github.io/games/bubble-pop/)**: pop bubble wrap, blow soap bubbles and squish a cloud in a cozy pocket fidget toy. Our newest!
 
 New games float in regularly. The website always has the full list, plus what's new and what's coming soon.
 
 ## Say hello
 
-- 🐞 Something not working? Open an issue in that game's repository and choose **Bug report**: [Kumo Farm](https://github.com/KumoPlay/kumo-farm/issues) · [Kumo Café](https://github.com/KumoPlay/kumo-cafe/issues) · [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo/issues) · [the website](https://github.com/KumoPlay/kumoplay.github.io/issues).
+- 🐞 Something not working? Open an issue in that game's repository and choose **Bug report**: [Kumo Farm](https://github.com/KumoPlay/kumo-farm/issues) · [Kumo Café](https://github.com/KumoPlay/kumo-cafe/issues) · [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo/issues) · [Bubble Pop](https://github.com/KumoPlay/bubble-pop/issues) · [the website](https://github.com/KumoPlay/kumoplay.github.io/issues).
 - 💡 Have an idea or a wish? Open an issue in the same places and choose **Game idea or feedback**. We'd love to hear it!
 - 🤝 Want to help out? Read our [contributing guide](https://github.com/KumoPlay/.github/blob/main/CONTRIBUTING.md) and our [code of conduct](https://github.com/KumoPlay/.github/blob/main/CODE_OF_CONDUCT.md).
