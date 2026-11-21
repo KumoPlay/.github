@@ -45,6 +45,6 @@ New games float in regularly. The website always has the full list, plus what's 
 
 ## Say hello
 
-- 🐞 Something not working? Open an issue in that game's repository and choose **Bug report**.
-- 💡 Have an idea or a wish? Choose **Game idea or feedback**. We'd love to hear it!
+- 🐞 Something not working? Open an issue in that game's repository and choose **Bug report**: [Kumo Farm](https://github.com/KumoPlay/kumo-farm/issues) · [Kumo Café](https://github.com/KumoPlay/kumo-cafe/issues) · [Peek-a-Kumo](https://github.com/KumoPlay/peek-a-kumo/issues) · [the website](https://github.com/KumoPlay/kumoplay.github.io/issues).
+- 💡 Have an idea or a wish? Open an issue in the same places and choose **Game idea or feedback**. We'd love to hear it!
 - 🤝 Want to help out? Read our [contributing guide](https://github.com/KumoPlay/.github/blob/main/CONTRIBUTING.md) and our [code of conduct](https://github.com/KumoPlay/.github/blob/main/CODE_OF_CONDUCT.md).
